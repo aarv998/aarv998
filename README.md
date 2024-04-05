@@ -1,10 +1,8 @@
 ## Hi there, I am Andres 👋
 
-![stkeky](https://img.shields.io/badge/st-keky-03a9f4?style=flat-square)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstkeky%2Fstkeky&count_bg=%2303A9F4&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/stkeky/)
-[![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/stkeky)
-[![Instagram](https://www.instagram.com/doble_trouble_21?igsh=MWhwbWN2ajJtYzA3cw==)
+
+[![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/aarv998)
+[![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/doble_trouble_21/)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=flat-square&logo=gmail)](mailto:andresaarv998@gmail.com)
 
 Trying to get things done!
